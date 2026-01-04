@@ -17,8 +17,14 @@
 7. [Attempts & Retake Policy](#-attempts--retake-policy)
 8. [Fees](#-fees)
 9. [Pass Rate & Difficulty](#-pass-rate--difficulty)
-10. [Official Resources](#-official-resources)
-11. [Citations](#-citations)
+10. [Exam Day Checklist](#-exam-day-checklist) ⭐ NEW
+11. [Technical Requirements (Online Exam)](#-technical-requirements-online-exam) ⭐ NEW
+12. [Rescheduling & Cancellation](#-rescheduling--cancellation) ⭐ NEW
+13. [Accommodations & Special Needs](#-accommodations--special-needs) ⭐ NEW
+14. [Prohibited Items & Conduct](#-prohibited-items--conduct) ⭐ NEW
+15. [Results & Post-Exam Process](#-results--post-exam-process) ⭐ NEW
+16. [Official Resources](#-official-resources)
+17. [Citations](#-citations)
 
 ---
 
@@ -286,6 +292,257 @@ During the exam, you will have access to a **consolidated PDF document** contain
 
 ---
 
+## ✅ Exam Day Checklist
+
+### 🆔 Acceptable ID (Bring ONE)
+
+| ID Type | Accepted? | Notes |
+|---------|:---------:|-------|
+| 🛂 Canadian Passport | ✅ | Must be valid (non-expired) |
+| 🚗 Canadian Driver's License | ✅ | Provincial license accepted |
+| 💳 Canadian PR Card | ✅ | Permanent Resident Card |
+| 🏥 Canadian Health Card | ✅ | Provincial health cards |
+| ❌ Photocopies / Digital Copies | ❌ | NOT accepted |
+
+[[19]](#citations)
+
+> [!CAUTION]
+> **Name on ID must EXACTLY match your registration name!**
+> - Discrepancies = rescheduling at your expense
+> - Rescheduling fee: **$75**
+
+### In-Person Exam Checklist
+
+- [ ] ✅ Valid government-issued photo ID
+- [ ] ⏰ Arrive **15 minutes before** start time
+- [ ] 🚫 Leave all prohibited items at home/in car
+- [ ] 📍 Know your exam centre location
+
+### Online Exam Checklist
+
+- [ ] ✅ Valid government-issued photo ID
+- [ ] 💻 Complete system check (webcam, mic, internet)
+- [ ] 🔌 Use wired internet if possible
+- [ ] 🏠 Quiet, private room with good lighting
+- [ ] 🔋 Fully charged laptop / stable power
+- [ ] ⬇️ Download ProctorU browser extension
+
+[[20]](#citations)
+
+---
+
+## 💻 Technical Requirements (Online Exam)
+
+### Computer Requirements
+
+| Requirement | Details |
+|-------------|---------|
+| **Device** | Laptop or Desktop PC |
+| **NOT Supported** | ❌ Chromebooks, Tablets, iPads |
+| **Monitors** | Single monitor ONLY (no dual monitors) |
+| **Webcam** | Required - must show face, head, shoulders |
+| **Microphone** | Required - must be functional |
+| **Company laptop?** | ❌ NOT recommended (firewall issues) |
+
+[[21]](#citations)
+
+### Internet Requirements
+
+| Requirement | Minimum |
+|-------------|---------|
+| **Connection Type** | Broadband (wired preferred) |
+| **Speed** | 1 Mbps upload AND download |
+| **Hotspot** | ❌ NOT recommended |
+| **Wi-Fi** | ⚠️ Wired connection preferred |
+
+> [!WARNING]
+> **Technical disruptions due to YOUR internet = exam termination + nullified results**
+
+### Browser & Software
+
+| Item | Requirement |
+|------|-------------|
+| **Browser** | Chrome, Firefox, Edge, or Safari 8+ (latest version) |
+| **ProctorU Extension** | Must download before exam |
+| **Pop-up Blockers** | Disable for exam platform |
+
+### Pre-Exam System Check
+
+> [!IMPORTANT]
+> **Complete system check BEFORE exam day!**
+> - Test webcam & microphone
+> - Test internet speed
+> - Verify browser compatibility
+> - Download required software
+
+[[22]](#citations)
+
+---
+
+## 📅 Rescheduling & Cancellation
+
+### Rescheduling Policy
+
+| Timing | Fee | Notes |
+|--------|:---:|-------|
+| **>24 hours before exam** | **FREE** | Via exam portal |
+| **<24 hours before exam** | **$50** | May apply |
+| **No-show (marked absent)** | **$50** | Can reschedule, NOT counted as attempt |
+| **ID name mismatch** | **$75** | Must reschedule |
+| **Technical issues (your end)** | **$50** | May apply; not counted as attempt |
+
+[[23]](#citations)
+
+### Cancellation / Withdrawal Policy
+
+| Timing | Refund |
+|--------|--------|
+| **>1 business day before exam** | ✅ Full refund |
+| **<1 business day before exam** | ⚠️ $50 fee applies |
+| **No-show without documentation** | ❌ No refund |
+| **No-show with medical note** | ✅ May get refund |
+
+**IBAO-specific**: Written notice required **15 days prior** for refund [[24]](#citations)
+
+### No Refunds For:
+
+- ❌ Registering for wrong exam
+- ❌ Being ineligible for the exam
+- ❌ Missing exam without valid documentation
+
+---
+
+## ♿ Accommodations & Special Needs
+
+### Available Accommodations
+
+| Accommodation | Description |
+|--------------|-------------|
+| ⏱️ **Additional time** | Extended exam duration |
+| 🔇 **Distraction-free room** | Separate testing space |
+| 📖 **Reader / Scribe** | For visual/physical limitations |
+| 🖥️ **Screen reading technology** | For visual impairments |
+| 📝 **Large-print exam** | Larger font size |
+| ⌨️ **Braille materials** | For blind candidates |
+| ♿ **Wheelchair-accessible centres** | Physical accessibility |
+| 🍎 **Food/drink allowance** | For medical reasons |
+| ⏸️ **Longer breaks** | Extended break times |
+
+[[25]](#citations)
+
+### How to Request Accommodations
+
+| Step | Details |
+|------|---------|
+| **1. Timing** | Request **≥15 business days** before exam |
+| **2. Form** | Complete Testing Accommodation Request Form |
+| **3. Documentation** | Medical documentation from licensed professional |
+| **4. Submit** | To exam provider (IIC or IBAO) |
+
+> [!NOTE]
+> RIBO may consult outside experts to assess accommodation needs. Cooperation with this process is expected.
+
+[[26]](#citations)
+
+---
+
+## 🚫 Prohibited Items & Conduct
+
+### Prohibited Items
+
+| Item | Allowed? |
+|------|:--------:|
+| 📱 Cell phones | ❌ |
+| ⌚ Smartwatches | ❌ |
+| 🎧 Headphones / Earbuds | ❌ |
+| 📚 Books / Notes | ❌ |
+| 📓 Physical materials | ❌ |
+| 💻 Tablets (separate device) | ❌ |
+| 🖥️ Second monitor | ❌ |
+
+[[27]](#citations)
+
+### Prohibited Actions During Exam
+
+| Action | Consequence |
+|--------|-------------|
+| 🗣️ Talking to anyone (except proctor) | ❌ Termination |
+| 📸 Taking screenshots | ❌ Termination |
+| 📝 Copying/pasting content | ❌ Termination |
+| 📤 Sharing exam content | ❌ Termination + potential ban |
+| 🎥 Recording the exam | ❌ Termination + potential ban |
+| ✍️ Writing down questions | ❌ Termination |
+
+> [!CAUTION]
+> **All online exams are RECORDED!**
+> - Proctors monitor webcam + screen activity
+> - Unusual behavior is flagged for review
+> - Violations may result in nullification + ban
+
+### What IS Provided
+
+| Tool | Available? |
+|------|:----------:|
+| 🧮 On-screen calculator | ✅ |
+| 📝 On-screen notepad | ✅ |
+| 📄 Open-book PDF | ✅ |
+| 🔍 Ctrl+F search in PDF | ✅ |
+
+[[28]](#citations)
+
+---
+
+## 📊 Results & Post-Exam Process
+
+### Getting Your Results
+
+| Result Type | Timeline | Delivery |
+|-------------|:--------:|----------|
+| **Unofficial Pass/Fail** | **48 hours** | Email notification |
+| **Official Score Report** | **14 days** | Email with download link |
+
+[[29]](#citations)
+
+> [!NOTE]
+> Official score report is required for your license application.
+
+### After You Pass - License Application
+
+| Step | Details |
+|------|---------|
+| **1. Get a Job** | Must be employed by RIBO-registered brokerage |
+| **2. Criminal Check** | Less than 60 days old, all names |
+| **3. Gather Documents** | Valid ID, score report |
+| **4. Apply** | Brokerage submits application to RIBO |
+| **5. Pay Fee** | License application fee: **$330** |
+| **6. Wait** | Processing: **2-4 weeks** |
+
+[[30]](#citations)
+
+### Important Deadlines
+
+| Deadline | Consequence |
+|----------|-------------|
+| **Exam results valid for** | **3 years** |
+| **Must get job within** | **1 year** of passing |
+| **CE credits** | Annual requirement after licensing |
+
+> [!WARNING]
+> **Passing the exam does NOT guarantee a license!**
+> - Employment is MANDATORY
+> - Background check must pass
+> - Missing job deadline = retake exam
+
+[[31]](#citations)
+
+### Remarks Policy
+
+> [!NOTE]
+> **No remarks available** since May 1, 2021.
+> The exam is 100% multiple-choice, so no re-marking is possible.
+
+---
+
 ## 🔗 Official Resources
 
 ### From RIBO (Regulator)
@@ -336,6 +593,19 @@ All information in this guide is sourced from official and authoritative sources
 | [16] | RIBO - 2026 Exam Fees | [ribo.com](https://www.ribo.com) |
 | [17] | RIBO - 2024-2025 Annual Report | [ribo.com](https://www.ribo.com) |
 | [18] | RIBO - Historical Pass Rates | [ribo.com](https://www.ribo.com) |
+| [19] | IBAO - Acceptable ID Requirements | [ibao.org](https://www.ibao.org) |
+| [20] | RIBO - Exam Day Preparation | [ribo.com](https://www.ribo.com) |
+| [21] | Insurance Institute - Technical Requirements | [insuranceinstitute.ca](https://www.insuranceinstitute.ca) |
+| [22] | RIBO - Online Exam System Check | [ribo.com](https://www.ribo.com) |
+| [23] | Insurance Institute - Rescheduling Policy | [insuranceinstitute.ca](https://www.insuranceinstitute.ca) |
+| [24] | IBAO - Cancellation & Refund Policy | [ibao.org](https://www.ibao.org) |
+| [25] | Insurance Institute - Testing Accommodations | [insuranceinstitute.ca](https://www.insuranceinstitute.ca) |
+| [26] | RIBO - Accommodation Assessment Process | [ribo.com](https://www.ribo.com) |
+| [27] | RIBO - Exam Conduct Rules | [ribo.com](https://www.ribo.com) |
+| [28] | IBAO - Exam Tools Provided | [ibao.org](https://www.ibao.org) |
+| [29] | Insurance Institute - Exam Results Timeline | [insuranceinstitute.ca](https://www.insuranceinstitute.ca) |
+| [30] | RIBO - License Application Process | [ribo.com](https://www.ribo.com) |
+| [31] | RIBO - Exam Validity & Employment Requirements | [ribo.com](https://www.ribo.com) |
 
 ---
 
